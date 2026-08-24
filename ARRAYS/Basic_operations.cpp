@@ -71,6 +71,7 @@ int main ()
     obj.do_delete_wanted (arr,size,30);
     obj.show(arr,size);
     
+    return 0;
     
     
     
