@@ -16,6 +16,7 @@ class Solution {
 };
 
 int main()
+
 {
     Solution obj;
     vector<int>nums={1,2,3,4,69,5};
