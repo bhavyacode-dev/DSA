@@ -14,14 +14,11 @@ class Solution {
         return -1;
     }
 };
-
 int main()
-
 {
     Solution obj;
-    vector<int>nums={1,2,3,4,69,5};
-    int target=4;
+    vector<int>nums={1,4,2,6,7};
+    int target=2;
     int res=obj.linearSearch(nums,target);
     cout<<res;
-
 }
